@@ -15,7 +15,7 @@ To build a simple and visually appealing webpage that demonstrates core web deve
 
 ## 🛠️ What I Built
 
-I created a **Portfolio Website** that includes:
+I created a **Website** that includes:
 
 ### 📌 Features
 - **Header & Footer** sections
@@ -50,4 +50,4 @@ I created a **Portfolio Website** that includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/internship-task1-portfolio.git
+   git clone https://github.com/yourusername/Apex-Planet-Task-1git
